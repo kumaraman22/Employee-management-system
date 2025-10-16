@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Aman",
+    "department": "IT",
+    "designation": "SDE",
+    "salary": "25000",
+    "joiningDate": "2025-10-08",
+    "email": "aman@gmail.com"
+  }
+]
